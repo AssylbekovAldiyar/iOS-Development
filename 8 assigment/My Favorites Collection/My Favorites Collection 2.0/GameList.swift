@@ -2,7 +2,7 @@
 //  GameList.swift
 //  My Favorites Collection
 //
-//  Created by Nurken on 25.10.2024.
+//  Created by Aldiyar on 25.10.2024.
 //
 
 import UIKit
