@@ -2,7 +2,7 @@
 //  UIView+Ext.swift
 //  My Favorites Collection 2.0
 //
-//  Created by Nurken on 06.11.2024.
+//  Created by Aldiyar on 06.11.2024.
 //
 
 import UIKit
